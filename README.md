@@ -2,4 +2,4 @@
 
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning Certificate
 
-![](images/certificate1.png)
+![](certificateimages/certificate1.png)
